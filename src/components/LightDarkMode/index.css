@@ -1,0 +1,42 @@
+.bg-container {
+  background-color: white;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.second-container {
+  background-color: black;
+  height: 150px;
+  width: 290px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.second-container2 {
+  background-color: white;
+  height: 150px;
+  width: 290px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid black;
+}
+.para {
+  color: white;
+  font-family: 'Roboto';
+}
+.para1 {
+  color: black;
+  font-family: 'Roboto';
+}
+.bitta {
+  background-color: white;
+}
+.bitta2 {
+  background-color: black;
+}
